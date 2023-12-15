@@ -1,0 +1,44 @@
+.shams{
+    display: flex;
+   justify-content: center;
+}
+.kitob-olami{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    list-style: none;
+}
+.kitob-olami img{
+  width: 500px;
+  height: 500px;
+}
+.rasm_1{
+
+    display: flex;
+}
+.rasm_1 img{
+    width: 400px;
+    height: 450px;
+}
+.rasm_2{
+    display: flex;
+}
+.rasm_2 img{
+    width: 400px;
+    height: 450px;
+}
+.icons{
+display: flex;
+justify-content: center;
+}
+.icons_1{
+    display:flex;
+    justify-content: center;
+}
+.text-break{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+}
